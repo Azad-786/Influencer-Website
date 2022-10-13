@@ -137,7 +137,7 @@ span
      width: 120px;
      position: relative;
      left: 25rem;
-     bottom: 55rem;
+     bottom: 51rem;
      animation: shake linear 2s infinite;
 }
 .d img{
@@ -145,7 +145,7 @@ span
      width: 150px;
      position: relative;
      left: 29rem;
-     bottom: 80rem;
+     bottom: 75rem;
      animation: shake linear 2s infinite;
 }
 
